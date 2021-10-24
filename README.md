@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a style="font-size:55px" href="https://github.com/EmileRolley/sustainable-computing-resources">
-  	🌍
+	  <img src="https://cdn.icon-icons.com/icons2/1389/PNG/512/earth_96091.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">
@@ -62,19 +62,19 @@ thematics are signified with this corresponding emojis:
 	<tbody>
 	<tr>
 		<td>&nbsp; <strong>Good start</strong></td>
-		<td>&nbsp; 🏁</td>
+		<td>&nbsp; :checkered_flag:</td>
 	</tr>
 	<tr>
 		<td>&nbsp; <strong>Design</strong></td>
-		<td>&nbsp; 🧾</td>
+		<td>&nbsp; :page_with_curl:</td>
 	</tr>
 	<tr>
 		<td>&nbsp; <strong>Usage</strong></td>
-		<td>&nbsp; 👥</td>
+		<td>&nbsp; :busts_in_silhouette:</td>
 	</tr>
 	<tr>
 		<td>&nbsp; <strong>Maintenance</strong></td>
-		<td>&nbsp; 🔧</td>
+		<td>&nbsp; :wrench:</td>
 	</tr>
 	</tbody>
 </table>
@@ -108,3 +108,4 @@ thematics are signified with this corresponding emojis:
 ## Research teams
 
 <p align="right"><a href="#top" style="font-size: 24px">▲</a></p>
+
