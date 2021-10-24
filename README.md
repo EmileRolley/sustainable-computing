@@ -33,7 +33,7 @@
   * [Contribute](#contribute)
 * [Books](#books)
 * [Websites](#websites)
-* [Papers](#papers)
+* [Research papers](#research-papers)
 * [Conferences](#conferences)
 * [Podcasts](#podcasts)
 * [Tools](#tools)
@@ -49,38 +49,19 @@
 ### Navigate
 
 Resources are divided by support (e.g. websites, papers, institute) and
-thematics are signified with this corresponding emojis:
+annotated with their corresponding subjects.
 
-<center>
-<table class="demo" style="padding-left: 38%;">
-	<!-- <caption></caption> -->
-	<thead>
-	<tr>
-		<th>Subject</th>
-		<th>Marker</th>
-	</tr>
-	</thead>
-	<tbody>
-	<tr>
-		<td>&nbsp; <strong>Good start</strong></td>
-		<td>&nbsp; :checkered_flag:</td>
-	</tr>
-	<tr>
-		<td>&nbsp; <strong>Design</strong></td>
-		<td>&nbsp; :page_with_curl:</td>
-	</tr>
-	<tr>
-		<td>&nbsp; <strong>Usage</strong></td>
-		<td>&nbsp; :busts_in_silhouette:</td>
-	</tr>
-	<tr>
-		<td>&nbsp; <strong>Maintenance</strong></td>
-		<td>&nbsp; :wrench:</td>
-	</tr>
-	</tbody>
-</table>
-</center>
-
+> Simply, `Ctrl-f` and search for:
+>
+> <details>
+>   <summary>List of subjects</summary>
+>
+> * `Good entry point`
+> * `Design`
+> * `Usage`
+> * `Maintenance`
+>
+> </details>
 
 ### Contribute
 
@@ -92,9 +73,19 @@ thematics are signified with this corresponding emojis:
 
 ## Websites
 
+* [EcoInfo.cnrs.fr](https://ecoinfo.cnrs.fr/)
+* [greenIT.fr](https://www.greenit.fr/ressources/)
+
 <p align="right"><a href="#top" style="font-size: 24px">▲</a></p>
 
-## Papers
+## Research papers
+
+* [_Emerging Issues of Green Computing in IT_](https://www.ijser.org/researchpaper/Emerging-Issues-of-Green-Computing-in-IT.pdf), K.HEMA, P.SUBHASHINI, S.VENKATA LAKSHM
+* [_Exploration of Green Computing_](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.413.7249), Navjot Kaur
+* [_Green Computing:Barriers and Benefits_](https://www.ripublication.com/ijcir17/ijcirv13n3_03.pdf), Monika, Jyoti Yadav, Muskan and Romika Yadav
+* [_Harnessing Green IT: Principles and Practices_](https://www.pitt.edu/~dtipper/2011/GreenPaper.pdf), San Murugesan
+* [_Introduction to Cloud Computing_](https://www.academia.edu/5353941/Introduction_to_Green_Computing), Pablo Hinojosa Nava, Athanasios Koutoulas
+* [_Is Cloud Computing Green Computing ?_](https://www.jstor.org/stable/23630285?refreqid=excelsior%3A2ac4710f3fa2120a8e9bd204bba1d3c4), Jack Newton
 
 <p align="right"><a href="#top" style="font-size: 24px">▲</a></p>
 
@@ -111,6 +102,8 @@ thematics are signified with this corresponding emojis:
 <p align="right"><a href="#top" style="font-size: 24px">▲</a></p>
 
 ## Research teams
+
+* [Sustainability Informatics](https://web.cs.toronto.edu/research/sustainability-informatics) team of the University of Toronto
 
 <p align="right"><a href="#top" style="font-size: 24px">▲</a></p>
 
