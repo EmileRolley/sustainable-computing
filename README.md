@@ -23,7 +23,7 @@
 
 
 
-<details open="open">
+<details>
   <summary>Table of Contents</summary>
 
 <!-- vim-markdown-toc GitLab -->
@@ -31,6 +31,7 @@
 * [How to](#how-to)
   * [Navigate](#navigate)
   * [Contribute](#contribute)
+* [Books](#books)
 * [Websites](#websites)
 * [Papers](#papers)
 * [Conferences](#conferences)
@@ -84,6 +85,10 @@ thematics are signified with this corresponding emojis:
 ### Contribute
 
 ---
+
+## Books
+
+<p align="right"><a href="#top" style="font-size: 24px">▲</a></p>
 
 ## Websites
 
