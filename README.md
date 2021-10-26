@@ -10,7 +10,7 @@
   </h3>
 
   <p align="center">
-  	An attempt to centralized <span style="font-style: italic">some</span> resources about sustainable computing.
+    An attempt to centralized some resources about sustainable programming and green computing.
    <!-- <br /> -->
    <!--  <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a> -->
     <br />
@@ -60,6 +60,9 @@ annotated with their corresponding subjects.
 > * `Design`
 > * `Usage`
 > * `Maintenance`
+> * `Global`
+> * `Lowtech`
+> * `Digital sobriety`
 >
 > </details>
 
@@ -73,8 +76,11 @@ annotated with their corresponding subjects.
 
 ## Websites
 
-* [EcoInfo.cnrs.fr](https://ecoinfo.cnrs.fr/)
-* [greenIT.fr](https://www.greenit.fr/ressources/)
+* [EcoInfo.cnrs.fr](https://ecoinfo.cnrs.fr/) - `Good entry point` `Global`\
+_CNRS services aiming to evaluate and to reduce informatic footprint in the
+french higher education research area._
+* [greenIT.fr](https://www.greenit.fr/ressources/) - `Good entry point` `Digital sobriety` `Lowtech`\
+_Community of responsible digital players who are interested in an alternative digital future._
 
 <p align="right"><a href="#top" style="font-size: 24px">▲</a></p>
 
