@@ -109,7 +109,11 @@ _Community of responsible digital players who are interested in an alternative d
 
 ## Research teams
 
-* [Sustainability Informatics](https://web.cs.toronto.edu/research/sustainability-informatics) team of the University of Toronto
+* [Artic Green Computing Group](https://site.uit.no/arcticgreen/) of the University of Tromsø.
+* [Low carbon and sustainable computing](https://www.gla.ac.uk/schools/computing/research/researchthemes/lowcarbon/) of the University of Glasgow.
+* [Sustainability Informatics team](https://web.cs.toronto.edu/research/sustainability-informatics) of the University of Toronto
+* [Sustainable Computing Lab](https://www.sustainablecomputinglab.io/) of the University of Massachusetts Amherst.
+* [Sustainable Computing Research Center](https://compsust.utec.edu.pe/about) of the University of Engineering and Technology, Peru.
 
 <p align="right"><a href="#top" style="font-size: 24px">▲</a></p>
 
