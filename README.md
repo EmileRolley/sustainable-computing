@@ -57,6 +57,7 @@ annotated with their corresponding subjects.
 >   <summary>List of subjects</summary>
 >
 > * `Good entry point`
+> * `Good practice`
 > * `Design`
 > * `Usage`
 > * `Maintenance`
@@ -77,10 +78,14 @@ annotated with their corresponding subjects.
 ## Websites
 
 * [EcoInfo.cnrs.fr](https://ecoinfo.cnrs.fr/) - `Good entry point` `Global`\
-_CNRS services aiming to evaluate and to reduce informatic footprint in the
+_CNRS services aiming to evaluate and to reduce informatics footprint in the
 french higher education research area._
 * [greenIT.fr](https://www.greenit.fr/ressources/) - `Good entry point` `Digital sobriety` `Lowtech`\
 _Community of responsible digital players who are interested in an alternative digital future._
+* [Green Software Foundation](https://greensoftware.foundation/) - `Good entry point` `Good practice`\
+_The Green Software Foundation is a non-profit with the mission to create a
+trusted ecosystem of people, standards, tooling and best practices for green
+software_
 
 <p align="right"><a href="#top" style="font-size: 24px">▲</a></p>
 
