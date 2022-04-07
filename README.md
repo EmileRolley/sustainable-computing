@@ -21,6 +21,8 @@
   </p>
 </p>
 
+> More detailed list: [Awesome Green Software](https://github.com/Green-Software-Foundation/awesome-green-software).
+
 
 
 <details>
@@ -56,14 +58,16 @@ annotated with their corresponding subjects.
 > <details>
 >   <summary>List of subjects</summary>
 >
+> * `Design`
+> * `Digital sobriety`
+> * `Global`
 > * `Good entry point`
 > * `Good practice`
-> * `Design`
-> * `Usage`
+> * `Low-tech`
 > * `Maintenance`
-> * `Global`
-> * `Lowtech`
-> * `Digital sobriety`
+> * `Power consumptions`
+> * `Software analyser`
+> * `Usage`
 >
 > </details>
 
@@ -109,6 +113,9 @@ software_
 <p align="right"><a href="#top" style="font-size: 24px">▲</a></p>
 
 ## Tools
+
+* [Coppers](https://github.com/ThijsRay/coppers) - `Power consumptions` `Software analyser`\
+_Coppers is a custom test harnass for Rust that measures the energy usage of your test suite._
 
 <p align="right"><a href="#top" style="font-size: 24px">▲</a></p>
 
