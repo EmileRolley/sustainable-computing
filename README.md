@@ -116,6 +116,8 @@ software_
 
 * [Coppers](https://github.com/ThijsRay/coppers) - `Power consumptions` `Software analyser`\
 _Coppers is a custom test harnass for Rust that measures the energy usage of your test suite._
+* [Scaphandre](https://github.com/hubblo-org/scaphandre) - `Power consumptions` `Software analyser`\
+_zap Energy consumption metrology agent. Let "scaph" dive and bring back the metrics that will help you make your systems and applications more sustainable !._
 
 <p align="right"><a href="#top" style="font-size: 24px">▲</a></p>
 
