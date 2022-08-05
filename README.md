@@ -90,6 +90,11 @@ _Community of responsible digital players who are interested in an alternative d
 _The Green Software Foundation is a non-profit with the mission to create a
 trusted ecosystem of people, standards, tooling and best practices for green
 software_
+* [carbonintensity.org.uk](https://www.carbonintensity.org.uk/) - `Power comsumptions`\
+_National Grid ESO's Carbon Intensity API provides an indicative trend of
+regional carbon intensity of the electricity system in Great Britain (GB) 96+
+hours ahead of real-time. It provides programmatic and timely access to both
+forecast and estimated carbon intensity data._
 
 <p align="right"><a href="#top" style="font-size: 24px">▲</a></p>
 
