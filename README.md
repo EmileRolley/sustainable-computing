@@ -142,6 +142,10 @@ your test suite._
 _:zap: Energy consumption metrology agent. Let "scaph" dive and bring back the
 metrics that will help you make your systems and applications more sustainable
 !._
+* [Clarke](https://github.com/patricoferris/clarke) - `Metrics` `Power consumptions` `OCaml` \
+_Clarke tries to work out how much energy your machine is using, perhaps also
+how much carbon too and then ships that data off to somewhere so you can work
+out how to minimise it and then offset the residual._
 * [geocaml](https://github.com/geocaml) - `Climate` `General` `Geospacial` `OCaml`\
 _A collection of geospatial and climate tools and libraries written in OCaml_
 
