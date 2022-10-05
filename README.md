@@ -63,6 +63,7 @@ annotated with their corresponding subjects.
 > * `CO2`
 > * `Design`
 > * `Digital sobriety`
+> * `Eco-conception`
 > * `General`
 > * `Geospacial`
 > * `Good entry point`
@@ -102,6 +103,10 @@ _National Grid ESO's Carbon Intensity API provides an indicative trend of
 regional carbon intensity of the electricity system in Great Britain (GB) 96+
 hours ahead of real-time. It provides programmatic and timely access to both
 forecast and estimated carbon intensity data._
+* [Collectif Conception Numérique Responsable](https://collectif.greenit.fr/) - `Eco-conception`\
+_Without commercial vocation, the Responsible Digital Design Collective
+(@CNumR) gathers experts and private and public organizations in favor of a
+responsible design of digital services._
 
 <p align="right"><a href="#top" style="font-size: 24px">▲</a></p>
 
@@ -148,6 +153,8 @@ how much carbon too and then ships that data off to somewhere so you can work
 out how to minimise it and then offset the residual._
 * [geocaml](https://github.com/geocaml) - `Climate` `General` `Geospacial` `OCaml`\
 _A collection of geospatial and climate tools and libraries written in OCaml_
+* [best-pratices](https://github.com/cnumr/best-practices) - `Eco-conception` `Web`\
+_115 Web Ecodesign Best Practices_
 
 <p align="right"><a href="#top" style="font-size: 24px">▲</a></p>
 
