@@ -10,7 +10,7 @@
   </h3>
 
   <p align="center">
-    An attempt to centralized some resources about sustainable programming and green computing.
+    An attempt to centralized some resources about sustainable programming, green computing and frugal engineering.
    <!-- <br /> -->
    <!--  <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a> -->
     <br />
