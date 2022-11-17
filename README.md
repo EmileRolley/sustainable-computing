@@ -155,6 +155,10 @@ out how to minimise it and then offset the residual._
 _A collection of geospatial and climate tools and libraries written in OCaml_
 * [best-pratices](https://github.com/cnumr/best-practices) - `Eco-conception` `Web`\
 _115 Web Ecodesign Best Practices_
+* [Carbon Aware SDK](https://github.com/Green-Software-Foundation/carbon-aware-sdk) - `CO2` `Metrics`\
+_An SDK to enable the creation of carbon aware applications, applications that
+do more when the electricity comes from clean low-carbon sources and less when
+it doesn't._
 
 <p align="right"><a href="#top" style="font-size: 24px">▲</a></p>
 
