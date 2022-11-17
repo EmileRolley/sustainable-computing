@@ -161,7 +161,9 @@ _115 Web Ecodesign Best Practices_
 ## Research teams
 
 * [Artic Green Computing Group](https://site.uit.no/arcticgreen/) of the University of Tromsø.
+* [CASH](http://www.ens-lyon.fr/LIP/CASH/) of the LIP lab (Lyon).
 * [Low carbon and sustainable computing](https://www.gla.ac.uk/schools/computing/research/researchthemes/lowcarbon/) of the University of Glasgow.
+* [Phenix research group](https://phenix.citi-lab.fr/) of the CITI lab (Lyon).
 * [Sustainability Informatics team](https://web.cs.toronto.edu/research/sustainability-informatics) of the University of Toronto
 * [Sustainable Computing Lab](https://www.sustainablecomputinglab.io/) of the University of Massachusetts Amherst.
 * [Sustainable Computing Research Center](https://compsust.utec.edu.pe/about) of the University of Engineering and Technology, Peru.
