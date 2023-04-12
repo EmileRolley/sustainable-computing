@@ -159,6 +159,10 @@ _115 Web Ecodesign Best Practices_
 _An SDK to enable the creation of carbon aware applications, applications that
 do more when the electricity comes from clean low-carbon sources and less when
 it doesn't._
+* [CodeCarbon](https://github.com/mlco2/codecarbon) - `Metrics` `Power consumption` `Software analyser`\
+_We created a Python package that estimates your hardware electricity power
+consumption (GPU + CPU + RAM) and we apply to it the carbon intensity of the
+region where the computing is done._
 
 <p align="right"><a href="#top" style="font-size: 24px">▲</a></p>
 
