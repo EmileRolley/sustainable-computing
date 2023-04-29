@@ -136,6 +136,11 @@ software applications._
 
 ## Podcasts
 
+* [Environment Variables Podcast](https://www.youtube.com/playlist?list=PLPDOrOxOHQcP5paHDDufmEqx2ITxQOTkl) - `General`\
+_Each episode we discuss the latest news regarding how to reduce the emissions
+of software and how the industry is dealing with its own environmental impact.
+Brought to you by The Green Software Foundation._
+
 <p align="right"><a href="#top" style="font-size: 24px">▲</a></p>
 
 ## Tools
