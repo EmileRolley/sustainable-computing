@@ -19,6 +19,10 @@
     ·
     <a href="https://github.com/EmileRolley/sustainable-computing-resources/pulls">Contribute</a>
   </p>
+
+  <p align="center">
+	  <b>Note that the most frugal piece of software is the one that doesn't exist.</b>
+  </p>
 </p>
 
 > More detailed list: [Awesome Green Software](https://github.com/Green-Software-Foundation/awesome-green-software).
