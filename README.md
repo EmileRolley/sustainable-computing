@@ -60,7 +60,8 @@ annotated with their corresponding subjects.
 >   <summary>List of subjects</summary>
 >
 > * `Climate`
-> * `CO2`
+> * `Cloud`
+> * `CO2`  
 > * `Design`
 > * `Digital sobriety`
 > * `Eco-conception`
@@ -84,6 +85,9 @@ annotated with their corresponding subjects.
 ---
 
 ## Books
+
+* [_Building Green Software_](https://www.oreilly.com/library/view/building-green-software/9781098150617/) - `General` `CO2` `Cloud` `Power consumptions`\
+  By Anne Currie, Sarah Hsu, Sara Bergman
 
 <p align="right"><a href="#top" style="font-size: 24px">▲</a></p>
 
