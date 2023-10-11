@@ -32,17 +32,17 @@
 
 <!-- vim-markdown-toc GitLab -->
 
-- [How to](#how-to)
-  - [Navigate](#navigate)
-  - [Contribute](#contribute)
-- [Books](#books)
-- [Websites](#websites)
-- [Research papers](#research-papers)
-- [Specifications](#specifications)
-- [Conferences](#conferences)
-- [Podcasts](#podcasts)
-- [Tools](#tools)
-- [Research teams](#research-teams)
+* [How to](#how-to)
+    * [Navigate](#navigate)
+    * [Contribute](#contribute)
+* [Books](#books)
+* [Websites](#websites)
+* [Research papers](#research-papers)
+* [Specifications](#specifications)
+* [Conferences](#conferences)
+* [Podcasts](#podcasts)
+* [Tools](#tools)
+* [Research teams](#research-teams)
 
 <!-- vim-markdown-toc -->
 
@@ -136,6 +136,8 @@ annotated with their corresponding subjects.
 
 ## Conferences
 
+- [Soirée Numérique Responsable - Les mains dans le Cambouis ! - Justin Berque (ecoCode) Benoit Petit (Scaphandre)](https://www.youtube.com/watch?v=DIlozib-Z_Q&t=3001s) - `CO2` `Metrics` `Software analyser` `Power comsumptions`\
+
 <p align="right"><a href="#top" style="font-size: 24px">▲</a></p>
 
 ## Podcasts
@@ -149,19 +151,6 @@ annotated with their corresponding subjects.
 
 ## Tools
 
-- [Coppers](https://github.com/ThijsRay/coppers) - `Metrics` `Power consumptions` `Rust` `Software analyser`\
-  _Coppers is a custom test harnass for Rust that measures the energy usage of
-  your test suite._
-- [Scaphandre](https://github.com/hubblo-org/scaphandre) - `Metrics` `Power consumptions` `Rust` `Software analyser`\
-  _:zap: Energy consumption metrology agent. Let "scaph" dive and bring back the
-  metrics that will help you make your systems and applications more sustainable
-  !._
-- [Clarke](https://github.com/patricoferris/clarke) - `Metrics` `Power consumptions` `OCaml` \
-  _Clarke tries to work out how much energy your machine is using, perhaps also
-  how much carbon too and then ships that data off to somewhere so you can work
-  out how to minimise it and then offset the residual._
-- [geocaml](https://github.com/geocaml) - `Climate` `General` `Geospacial` `OCaml`\
-  _A collection of geospatial and climate tools and libraries written in OCaml_
 - [best-pratices](https://github.com/cnumr/best-practices) - `Eco-conception` `Web`\
   _115 Web Ecodesign Best Practices_
 - [Carbon Aware SDK](https://github.com/Green-Software-Foundation/carbon-aware-sdk) - `CO2` `Metrics`\
@@ -172,6 +161,21 @@ annotated with their corresponding subjects.
   _We created a Python package that estimates your hardware electricity power
   consumption (GPU + CPU + RAM) and we apply to it the carbon intensity of the
   region where the computing is done._
+- [Coppers](https://github.com/ThijsRay/coppers) - `Metrics` `Power consumptions` `Rust` `Software analyser`\
+  _Coppers is a custom test harnass for Rust that measures the energy usage of
+  your test suite._
+- [Clarke](https://github.com/patricoferris/clarke) - `Metrics` `Power consumptions` `OCaml` \
+  _Clarke tries to work out how much energy your machine is using, perhaps also
+  how much carbon too and then ships that data off to somewhere so you can work
+  out how to minimise it and then offset the residual._
+- [ecoCode](https://github.com/green-code-initiative/ecoCode) - `Software analyser` `Eco-conception`\
+  _Reduce the environmental footprint of your software programs with SonarQube_
+- [geocaml](https://github.com/geocaml) - `Climate` `General` `Geospacial` `OCaml`\
+  _A collection of geospatial and climate tools and libraries written in OCaml_
+- [Scaphandre](https://github.com/hubblo-org/scaphandre) - `Metrics` `Power consumptions` `Rust` `Software analyser`\
+  _:zap: Energy consumption metrology agent. Let "scaph" dive and bring back the
+  metrics that will help you make your systems and applications more sustainable
+  !._
 
 <p align="right"><a href="#top" style="font-size: 24px">▲</a></p>
 
