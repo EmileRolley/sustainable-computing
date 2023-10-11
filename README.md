@@ -94,15 +94,10 @@ annotated with their corresponding subjects.
 
 ## Websites
 
-- [EcoInfo.cnrs.fr](https://ecoinfo.cnrs.fr/) - `General` `Good entry point`\
-  _CNRS services aiming to evaluate and to reduce informatics footprint in the
-  french higher education research area._
-- [greenIT.fr](https://www.greenit.fr/ressources/) - `Digital sobriety` `Good entry point` `Lowtech`\
-  _Community of responsible digital players who are interested in an alternative digital future._
-- [Green Software Foundation](https://greensoftware.foundation/) - `Good entry point` `Good practice`\
-  _The Green Software Foundation is a non-profit with the mission to create a
-  trusted ecosystem of people, standards, tooling and best practices for green
-  software_
+- [boatvizta.org](https://boavizta.org/)\
+  _For Digital Sustainability and CSR teams, a daily help thanks to an
+  inter-organization working group, expert & updated resources under free
+  licenses_
 - [carbonintensity.org.uk](https://www.carbonintensity.org.uk/) - `CO2` `Power comsumptions`\
   _National Grid ESO's Carbon Intensity API provides an indicative trend of
   regional carbon intensity of the electricity system in Great Britain (GB) 96+
@@ -112,6 +107,15 @@ annotated with their corresponding subjects.
   _Without commercial vocation, the Responsible Digital Design Collective
   (@CNumR) gathers experts and private and public organizations in favor of a
   responsible design of digital services._
+- [EcoInfo.cnrs.fr](https://ecoinfo.cnrs.fr/) - `General` `Good entry point`\
+  _CNRS services aiming to evaluate and to reduce informatics footprint in the
+  french higher education research area._
+- [greenIT.fr](https://www.greenit.fr/ressources/) - `Digital sobriety` `Good entry point` `Lowtech`\
+  _Community of responsible digital players who are interested in an alternative digital future._
+- [Green Software Foundation](https://greensoftware.foundation/) - `Good entry point` `Good practice`\
+  _The Green Software Foundation is a non-profit with the mission to create a
+  trusted ecosystem of people, standards, tooling and best practices for green
+  software_
 
 <p align="right"><a href="#top" style="font-size: 24px">▲</a></p>
 
@@ -170,6 +174,9 @@ annotated with their corresponding subjects.
   out how to minimise it and then offset the residual._
 - [ecoCode](https://github.com/green-code-initiative/ecoCode) - `Software analyser` `Eco-conception`\
   _Reduce the environmental footprint of your software programs with SonarQube_
+- [Energizta](https://github.com/Boavizta/Energizta) - `Metrics` `Power consumptions` `Software analyser`\
+  _Energizta is a collaborative project to collect and report open-data on the
+  energy consumption of servers._
 - [geocaml](https://github.com/geocaml) - `Climate` `General` `Geospacial` `OCaml`\
   _A collection of geospatial and climate tools and libraries written in OCaml_
 - [Scaphandre](https://github.com/hubblo-org/scaphandre) - `Metrics` `Power consumptions` `Rust` `Software analyser`\
